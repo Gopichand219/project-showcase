@@ -1,0 +1,17 @@
+.projects-navbar {
+  background-color: #cbd5e1;
+  padding: 20px;
+}
+
+.list {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.drop-down {
+  margin: 10px;
+  width: 200px;
+  padding: 4px;
+  font-size: 18px;
+}
